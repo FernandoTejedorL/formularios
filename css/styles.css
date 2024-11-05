@@ -31,3 +31,22 @@ body {
   margin: 0;
   font-family: sans-serif;
 }
+
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.box-big {
+  width: 400px;
+  height: 400px;
+}
+
+.box-rounded {
+  border-radius: 50px;
+}
